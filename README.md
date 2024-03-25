@@ -1,6 +1,6 @@
-# Colorizing Monochromatic Radiance Fields
+# Colorizing Monochromatic Radiance Fields [ArXiv](https://arxiv.org/abs/2402.12184) [Project Page](https://liquidammonia.github.io/color-nerf/)
 
-This is the official codebase of [Colorizing Monochromatic Radiance Fields](https://liquidammonia.github.io/color-nerf/) (AAAI 2024, Oral presentation).
+This is the official codebase of Colorizing Monochromatic Radiance Fields (AAAI 2024, Oral presentation).
 
 
 ## Quick start
@@ -13,7 +13,7 @@ conda create -f env.yaml
 Note: some packages are not used in this demo.
 
 ### Data preparation
-We use LLFF dataset for training and testing. Please download the dataset from [the official website](https://github.com/Fyusion/LLFF)
+We use LLFF dataset for training and testing. Please download the dataset from [the official website](https://github.com/Fyusion/LLFF).
 
 ### Train
 There are two training stages: (1) train a monochromatice NeRF model, and (2) train a colorized model.

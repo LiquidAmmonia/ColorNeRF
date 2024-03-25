@@ -1,6 +1,7 @@
 # Colorizing Monochromatic Radiance Fields
 
-This is the official codebase of [Colorizing Monochromatic Radiance Fields](https://liquidammonia.github.io/color-nerf/) (Cheng et al. AAAI 2024).
+This is the official codebase of [Colorizing Monochromatic Radiance Fields](https://liquidammonia.github.io/color-nerf/) (AAAI 2024, Oral presentation).
+
 
 ## Quick start
 

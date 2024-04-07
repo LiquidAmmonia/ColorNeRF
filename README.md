@@ -1,5 +1,11 @@
 # Colorizing Monochromatic Radiance Fields 
-[[ArXiv]](https://arxiv.org/abs/2402.12184) [[Project Page]](https://liquidammonia.github.io/color-nerf/) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/27895) 
+<!-- [[ArXiv]](https://arxiv.org/abs/2402.12184) [[Project Page]](https://liquidammonia.github.io/color-nerf/) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/27895)  -->
+
+
+<a href="https://liquidammonia.github.io/color-nerf/"><img src="https://img.shields.io/badge/Project%20Page-online-brightgreen"></a>
+<a href="https://arxiv.org/abs/2402.12184"><img src="https://img.shields.io/badge/arXiv-2402.12184-%23B31B1B"></a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27895"><img src="https://img.shields.io/badge/HTML-AAAI2024-blue"></a>
+
 
 This is the official codebase of Colorizing Monochromatic Radiance Fields (AAAI 2024). This paper was accepted as an Oral presentation paper (60 in 2342, 2.56%).
 

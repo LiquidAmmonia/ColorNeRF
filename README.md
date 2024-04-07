@@ -1,7 +1,8 @@
-# Colorizing Monochromatic Radiance Fields [ArXiv](https://arxiv.org/abs/2402.12184) [Project Page](https://liquidammonia.github.io/color-nerf/)
+# Colorizing Monochromatic Radiance Fields 
 
-This is the official codebase of Colorizing Monochromatic Radiance Fields (AAAI 2024, Oral presentation).
+## [ArXiv](https://arxiv.org/abs/2402.12184) [Project Page](https://liquidammonia.github.io/color-nerf/) [HTML](https://ojs.aaai.org/index.php/AAAI/article/view/27895) 
 
+This is the official codebase of Colorizing Monochromatic Radiance Fields (AAAI 2024). This paper was accepted as an Oral presentation paper (60 in 2342, 2.56%).
 
 ## Quick start
 

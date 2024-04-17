@@ -21,6 +21,10 @@ Note: some packages are not used in this demo.
 ### Data preparation
 We use LLFF dataset for training and testing. Please download the dataset from [the official website](https://github.com/Fyusion/LLFF).
 
+For CT2 colorization, please download the ab-gamut.npy from [CT2](https://github.com/shuchenweng/CT2) under `segm/resources/ab-gamut.npy` and put it under `private/ColorNeRF/models/segm/resources`
+
+
+
 ### Train
 There are two training stages: (1) train a monochromatice NeRF model, and (2) train a colorized model.
 ```
